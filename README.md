@@ -11,4 +11,9 @@ To plan your day, simply click in the field to the right of the hour for which y
 
 ## Credits
 
-I had aid from a tutor for this. I did the day.js calls for the date and time myself, along with the conditional logic for the AM/PM labels, the conditional logic for the time classes (past, present, future) and the font-awesome icons. I also made some changes in the code that she helped me write so that data would go through the AM/PM logic instead of just console.log. She helped me with the DOM manipulation and how "this" works.  I had made previous attempts at this project trying to brute force code the rows with hours and AM/PM labels, so she showed me how much easier it was using a for-each loop.  I wrote all the comments myself after I finished the project, showing that I understand how the code works, I just needed some help getting there.
+I had aid from a tutor for this. I did the day.js calls for the date and time myself, along with the conditional logic for the AM/PM labels, the conditional logic for the time classes (past, present, future) and the font-awesome icons. I also made some changes in the code that she helped me write so that data would go through the AM/PM logic instead of just console.log. She helped me with the DOM manipulation and how "this" works.  I had made previous attempts at this project trying to brute force code the rows with hours and AM/PM labels, so she showed me how much easier it was using a for loop.  I wrote all the comments myself after I finished the project, showing that I understand how the code works, I just needed some help getting there.
+
+
+https://floridafroglady.github.io/Work-Day-Task-Planner/
+
+![Alt text](assets/Screenshot%202023-05-26%20at%2014-40-38%20Work%20Day%20Task%20Planner.png)
